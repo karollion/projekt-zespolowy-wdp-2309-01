@@ -11,6 +11,8 @@ Teraz możesz zacząć pracę, korzystając z przygotowanych taska `yarn start` 
 
 Wszystkie potrzebne do pracy pliki źródłowe znajdują się w folderach `src` oraz `public`.
 
+Strona projektu:[Projekt zespolowy](https://wdp-2309-01.netlify.app/)
+
 ## NPM Scripts
 
 Dostępne są 3 główne skrypty przyspieszające pracę:
